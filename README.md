@@ -7,7 +7,6 @@ A 2D puzzle platformer where you swing with a grappling hook and use physics to 
 ![Hookspire gameplay](images/hookspire-highlight.gif)
 
 <!-- [Download the Windows build](https://github.com/XavierTan-prog/Hookspire/releases/latest) · -->
-[![Watch the full Hookspire run on YouTube]](https://youtu.be/RDtkA82CoDo)
 
 | **Team** | Studio Dream, 8 people (DigiPen Institute of Technology Singapore) |
 | **When** | Sep 2025 – Apr 2026 |
