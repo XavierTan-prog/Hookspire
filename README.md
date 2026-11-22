@@ -1,3 +1,5 @@
+# Hookspire
+
 Hookspire is a 2D puzzle platformer where players have to use a grappling hook and physics to be able to traverse through the levels to reach the end. As the players are playing the game, each level introduces a new mechanic that challenges the player in different ways, and it allows the players to abuse the physics system in certain scenarios.
 
-My role: built the engine's physics and collision system (AABB and circle colliders on a spatial grid, 20–30 objects at 60 FPS) and Input System. I also built 6 ImGui editor panels, plus Tilemap and Prefab editors our designers used to build all 4 levels and designed the UI screens in Photopea.
+- **My role:** built the engine's physics and collision system (AABB and circle colliders on a spatial grid, 20–30 objects at 60 FPS) and Input System. I also built 6 ImGui editor panels, plus Tilemap and Prefab editors our designers used to build all 4 levels and designed the UI screens in Photopea.
