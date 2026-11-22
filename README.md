@@ -2,7 +2,6 @@
 
 A 2D puzzle platformer where you swing with a grappling hook and use physics to reach the end of each level. Every level adds a new mechanic, and some let players bend the physics system to their advantage.
 
-<!-- Put a GIF of the grappling hook here: drag the file into GitHub's editor and it uploads for you. -->
 ![Hookspire gameplay](images/hookspire-gameplay.gif)
 
 **[Download the Windows build](LINK) · [Watch gameplay](LINK)**
@@ -42,9 +41,10 @@ A 2D puzzle platformer where you swing with a grappling hook and use physics to 
 **The result.** 20–30 colliding objects per level at a steady 60 FPS.
 
 ## Screenshots
+**Tilemap Editor in Engine**
+![Editor with the Tilemap editor](images/tilemap-editor.gif)
 
-<!-- 2–4 images: the editor with the Tilemap panel open, a level, the main menu. -->
-![Editor with the Tilemap editor](images/editor-tilemap.png)
+**Hookspire Mainmenu**
 ![Main menu](images/main-menu.png)
 
 ---
